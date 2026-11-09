@@ -104,8 +104,7 @@
     "wof:belongsto":[
         102191581,
         101751737,
-        85633241,
-        85685015
+        85633241
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,8 +124,7 @@
             "continent_id":102191581,
             "country_id":85633241,
             "locality_id":101751737,
-            "neighbourhood_id":85794149,
-            "region_id":85685015
+            "neighbourhood_id":85794149
         }
     ],
     "wof:id":85794149,
